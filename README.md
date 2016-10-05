@@ -9,3 +9,5 @@ Okay, bye!
 'Sup, just making some changes to test git and github
 
 Seems to work
+
+Still don't get how fetch works though, so stay tuned
